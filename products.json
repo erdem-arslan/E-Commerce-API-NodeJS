@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Akıllı Telefon X",
+      "price": 4999.99,
+      "stock": 50,
+      "description": "Son teknoloji özelliklere sahip akıllı telefon"
+    },
+    {
+      "id": 2,
+      "name": "Laptop Pro",
+      "price": 7999.99,
+      "stock": 30,
+      "description": "Yüksek performanslı iş laptopu"
+    },
+    {
+      "id": 3,
+      "name": "Kablosuz Kulaklık",
+      "price": 599.99,
+      "stock": 100,
+      "description": "Gürültü önleyici özellikli kablosuz kulaklık"
+    },
+    {
+      "id": 4,
+      "name": "4K Akıllı TV",
+      "price": 5999.99,
+      "stock": 20,
+      "description": "55 inç 4K çözünürlüklü akıllı televizyon"
+    },
+    {
+      "id": 5,
+      "name": "Fitness Bilekliği",
+      "price": 299.99,
+      "stock": 75,
+      "description": "Kalp ritmi ve adım sayar özellikli fitness bilekliği"
+    },
+    {
+      "id": 6,
+      "name": "Elektrikli Scooter",
+      "price": 3499.99,
+      "stock": 15,
+      "description": "30 km menzilli katlanabilir elektrikli scooter"
+    },
+    {
+      "id": 7,
+      "name": "Robotik Süpürge",
+      "price": 1999.99,
+      "stock": 40,
+      "description": "Akıllı haritalama özellikli robotik süpürge"
+    },
+    {
+      "id": 8,
+      "name": "Oyun Konsolu",
+      "price": 4499.99,
+      "stock": 25,
+      "description": "4K gaming destekli yeni nesil oyun konsolu"
+    },
+    {
+      "id": 9,
+      "name": "Dijital Fotoğraf Makinesi",
+      "price": 3299.99,
+      "stock": 35,
+      "description": "24MP sensörlü profesyonel dijital fotoğraf makinesi"
+    },
+    {
+      "id": 10,
+      "name": "Akıllı Saat",
+      "price": 1299.99,
+      "stock": 60,
+      "description": "Fitness takibi ve bildirim özellikli akıllı saat"
+    }
+  ]
+}
